@@ -1,0 +1,35 @@
+/* Your CSS goes here! */
+h1 {
+    size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color:rgb(33, 9, 65);
+    size: 1.2em;
+    text-indent: .5em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#writingsampletable {
+    background-color: rgb(255, 255, 255);
+    text-indent: 2 em;
+}
+
+th{
+    background-color: rgb(182, 186, 186);
+    font-family: Arial, Helvetica, sans-serif
+}
+
+img {
+    border: .25em solid;
+    border-color: black;
+}
+
+#body1 {
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+}
